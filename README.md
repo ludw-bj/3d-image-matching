@@ -1,4 +1,4 @@
-# 🧩 Cluster-Aware SfM Pipeline for the Image Matching Challenge 2025
+# Cluster-Aware SfM Pipeline for Image Matching Challenge 2025
 
 This repository provides a clean, modular, and configurable pipeline for solving the [Image Matching Challenge 2025](https://www.kaggle.com/competitions/image-matching-challenge-2025). The goal is to reconstruct a 3D scene from a set of possibly related images.
 
